@@ -16,7 +16,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "RWC\\" : "src/"
+            "RWC\\Caldera\\" : "src/"
         }
     }
 }
